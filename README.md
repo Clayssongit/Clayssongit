@@ -1,7 +1,9 @@
 ## Olá eu sou o Claysson Eugenio
 
+<h4 align="center"> 🎓 Sistemas de informação 4/8 </h4><br>
+
 - 🌱 Estudando: Java, Python e Banco de dados
-- 🎓 Atualmente procurando estágio 
+- 💻 Atualmente procurando estágio 
 - 📫 Contate-me no email: clayssongit@hotmail.com
 - ⚡ curiosidade: Gostaria muito de atuar na área de engenharia de dados
 
