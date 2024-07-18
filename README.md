@@ -1,4 +1,4 @@
-## Olá eu sou o Claysson Eugenio
+## Olá eu sou o Claysson
 
 <h4 align="center"> 🎓 Sistemas de informação 4/8 </h4><br>
 
